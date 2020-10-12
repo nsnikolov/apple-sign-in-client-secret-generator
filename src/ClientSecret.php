@@ -10,6 +10,7 @@ use Jose\Component\Signature\JWSBuilder;
 use Jose\Component\Signature\Serializer\CompactSerializer;
 
 /**
+ * nsnik
  * Apple Sign In Client Secret Generator
  */
 class ClientSecret
