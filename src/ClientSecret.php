@@ -2,15 +2,6 @@
 
 namespace Kissdigitalcom\AppleSignIn;
 
-require_once("C:/xampp/php_7_2_34/vendor/web-token/jwt-framework/src/Component/Core/AlgorithmManager.php");
-require_once("C:/xampp/php_7_2_34/vendor/web-token/jwt-framework/src/Component/Core/JWK.php");
-require_once("C:/xampp/php_7_2_34/vendor/web-token/jwt-framework/src/Component/KeyManagement/JWKFactory.php");
-require_once("C:/xampp/php_7_2_34/vendor/web-token/jwt-framework/src/Component/Signature/ES256.php");
-require_once("C:/xampp/php_7_2_34/vendor/web-token/jwt-framework/src/Component/Signature/JWSBuilder.php");
-require_once("C:/xampp/php_7_2_34/vendor/web-token/jwt-framework/src/Component/Signature/CompactSerializer.php");
-
-
-
 use Jose\Component\Core\AlgorithmManager;
 use Jose\Component\Core\JWK;
 use Jose\Component\KeyManagement\JWKFactory;
