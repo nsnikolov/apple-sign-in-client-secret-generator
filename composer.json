@@ -22,7 +22,7 @@
   "require": {
     "php": "^7.2",
     "web-token/jwt-framework": "2.1"
-  },
+  },  
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
